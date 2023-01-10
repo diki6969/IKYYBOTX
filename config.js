@@ -24,7 +24,7 @@ global.wm = '© 𝙄𝙠𝙮𝙮𝘽𝙤𝙩-𝙈𝘿'
 global.watermark = wm
 global.wm2 = '⫹⫺ 𝙄𝙆𝙔𝙔𝘽𝙊𝙏-𝙈𝘿'
 global.wm3 = '© 𝙄𝙆𝙔𝙔𝘽𝙊𝙏-𝙈𝘿'
-global.wm4 = '© 𝗕𝗢𝗧 𝗜𝗞𝗬𝗬
+global.wm4 = '© 𝗕𝗢𝗧 𝗜𝗞𝗬𝗬'
 global.fla = 'https://api.tiodevhost.my.id/api/textpro/glitch?text='
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
