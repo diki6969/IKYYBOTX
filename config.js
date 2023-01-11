@@ -51,7 +51,7 @@ global.APIKeys = { // APIKey Here
   'https://api.xteam.xyz': 'd37372311698ed1d',
   'https://pencarikode.xyz': 'pais', 
   'https://zekais.com': 'apikeymu',
-  'https://api.lolhuman.xyz': 'Deffbotz',
+  'https://api.lolhuman.xyz': 'SGWN',
 }
 
 /*Setting Rpg*/

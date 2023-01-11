@@ -25,7 +25,7 @@ Runtime: ${uptime}`
     status: 1,
     surface : 1,
     message: `2022 © ${namebot}, 
-    orderTitle: `Ikyy`,
+    orderTitle: `Hyzer`,
     thumbnail: 'https://telegra.ph/file/5ecbec3e82e247671a18e.jpg', 
     sellerJid: '0@s.whatsapp.net' 
     }
