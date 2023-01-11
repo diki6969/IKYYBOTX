@@ -20,7 +20,7 @@ key: {
 						"jpegThumbnail": fs.readFileSync('./media/thumbnail.jpg') //Gambarnya
 					},
 					"title": wm, //Kasih namalu 
-					"description": "Ikyy", 
+					"description": "Botcahx", 
 					"currencyCode": "USD",
 					"priceAmount1000": "2000",
 					"retailerId": "Ghost",

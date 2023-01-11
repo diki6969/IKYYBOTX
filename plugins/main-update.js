@@ -9,7 +9,7 @@ conn
 	await conn.reply(m.chat, `Looking for resources...`, m)
     var o
     try {
-        o = await exec('git pull https://github.com/diki6969/IKYYBOTX.git')
+        o = await exec('git pull https://github.com/BOTCAHX/RTXZY-MD.git')
     } catch (e) {
         o = e
     } finally {

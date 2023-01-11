@@ -58,7 +58,7 @@ const defaultMenu = {
 │ • Prefix Used: *[ %p ]*
 │ • Database: %rtotalreg dari %totalreg 
 │ • Memory : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
-│ • Github: https://github.com/diki6969
+│ • Free Api: https://api.tiodevhost.my.id
 ╰────
 ╭─ 「 *USER INFO* 」
 │ • Pengguna:  %name 
@@ -184,24 +184,24 @@ const ftroli = {
                             itemCount : 9999999999999,
                             status: 1,
                             surface : 1,
-                            message: '© Ikyy Official',
+                            message: '© TioXd Official',
                             orderTitle: 'MENU',
-                            thumbnail: await (await fetch('https://telegra.ph/file/656177122197c9f77d134.jpg')).buffer(),
+                            thumbnail: await (await fetch('https://telegra.ph/file/f4063ab3071f5c4af765a.png')).buffer(),
                             sellerJid: '0@s.whatsapp.net'
           
                           }
                         }
                       }
-await conn.send3ButtonImg(m.chat, await (await fetch('https://telegra.ph/file/c7f315694ac9fe4d59bbd.jpg')).buffer(),  'ʜᴇʀᴇ ᴍʏ ᴄᴏᴍᴍᴀɴᴅ ʟɪꜱᴛ', text, 'ʙᴀᴄᴋ', '.menu', 'ɪɴꜰᴏ', '.info', 'ᴀʟʟᴍᴇɴᴜ', '.pay', m, {  
+await conn.send3ButtonImg(m.chat, await (await fetch('https://telegra.ph/file/328f69bd3fa43a1aecb20.jpg')).buffer(),  'ʜᴇʀᴇ ᴍʏ ᴄᴏᴍᴍᴀɴᴅ ʟɪꜱᴛ', text, 'ʙᴀᴄᴋ', '.menu', 'ɪɴꜰᴏ', '.info', 'ᴀʟʟᴍᴇɴᴜ', '.pay', m, {  
       quoted: ftroli,  
       contextInfo: { //forwardingScore: 99999, isForwarded: true,  
           externalAdReply: {  showAdAttribution: true, 
               title: 'ʙᴏᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ᴍᴜʟᴛɪ ᴀᴜᴛʜ',  
-              body: '© ɪᴋʏʏ', 
-              description: 'ᴍᴀᴅᴇ ᴡɪᴛʜ 🔥 ɪᴋʏʏ', 
+              body: '© ᴛɪᴏxᴅ', 
+              description: 'ᴍᴀᴅᴇ ᴡɪᴛʜ ♡ ᴛɪᴏxᴅ', 
               mediaType: 2,  
             thumbnail: await (await fetch('https://telegra.ph/file/00faf159ce0349901eaf3.jpg')).buffer(), 
-           mediaUrl: `https://www.facebook.com/` 
+           mediaUrl: `https://www.facebook.com/tio.permana.50999` 
           }  
        }  
       })
